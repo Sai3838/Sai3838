@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sai3838
-- 👀 I’m interested in making the future of tech! I want to learn something new and imporve my skills every day
+- 👀 I’m interested in making the future of tech! I want to learn something new and improve my skills every day
 - 🌱 I’m currently learning python, golang, solidity
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 
